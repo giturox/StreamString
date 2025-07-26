@@ -6,3 +6,5 @@
 The interface is undergoing a major rewrite using a result pattern instead of exceptions (exceptions will possibly be optionally enabled in the result pattern though).
 
 * This unit is written for [FreePascal](https://www.freepascal.org) V3.2 or later. I may update it to also support Delphi, but for now i use the Freepascal generics. 
+
+Main webpage for streamstring is on [sourceforge](https://sourceforge.net/projects/streamstring/)
